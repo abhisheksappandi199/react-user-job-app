@@ -1,0 +1,16 @@
+.container {
+    margin: auto;
+    width: 65%;
+    border: 3px ;
+    padding: 10px; 
+    max-width: 1000px;
+    background-color: white;
+  }
+  .container1 {
+    margin: auto;
+    width: 98%;
+    border: 3px ;
+    padding: 10px; 
+    max-width: 1500px;
+    background-color: white;
+  }
